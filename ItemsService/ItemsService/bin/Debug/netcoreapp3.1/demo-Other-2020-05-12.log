@@ -1,0 +1,6 @@
+2020-05-12 06:43:45.4315||DEBUG|ItemsService.Program|init main function |url: |action: 
+2020-05-12 06:43:52.6102|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/weatherforecast|action: 
+2020-05-12 15:10:36.1978||DEBUG|ItemsService.Program|init main function |url: |action: 
+2020-05-12 15:11:00.5369|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/weatherforecast|action: 
+2020-05-12 15:18:40.4259||DEBUG|ItemsService.Program|init main function |url: |action: 
+2020-05-12 15:18:49.8524|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/weatherforecast|action: 
